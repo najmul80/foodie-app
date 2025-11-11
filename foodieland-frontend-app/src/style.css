@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swal2-confirm {
+  background-color: #3085d6 !important; /* Default blue color */
+  color: white !important;
+}
+
+.swal2-cancel {
+  background-color: #d33 !important; /* Default red color */
+  color: white !important;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
