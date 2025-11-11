@@ -36,7 +36,7 @@ This is the official Laravel backend API for the Foodieland web application. It 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/freelancershahjalal/backend_food_blog_project_food_ieland
+    git clone [https://github.com/freelancershahjalal/backend_food_blog_project_food_ieland](https://github.com/najmul80/foodie-app)
     cd foodieland-api
     ```
 
