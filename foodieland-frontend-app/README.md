@@ -35,8 +35,8 @@ This is the Vue.js frontend for the Foodieland web application. It is a modern, 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://your-repository-url/foodieland-frontend.git](https://github.com/najmul80/foodie-app)
-    cd foodieland-frontend
+    git clone https://github.com/najmul80/foodie-app
+    cd foodieland-frontend-app
     ```
 
 2.  **Install Node.js dependencies:**
